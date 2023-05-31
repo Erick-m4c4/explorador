@@ -1,0 +1,113 @@
+body{
+    background-color: black;
+    color: white;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 30px;
+}
+
+h1{
+    text-align: center;
+    font-size: 50px;
+}
+
+.quehacer{
+    position: absolute;
+    top: 30%;
+    left: 31%;
+    /* background-color: aqua; */
+    width: 50%;
+}
+
+.imagena{
+    position: absolute;
+    top: 30%;
+    right: 25%;
+    width: 23%;
+    height: 57%;
+    border-radius: 10px;
+}
+
+.textoa{
+    font-size: 20px;
+    text-align: center;
+    background-color: #d9d9d9;
+    color: black;
+    width: 7%;
+    padding: 15px;
+    border-radius: 15px;
+    transform: rotate(90deg);
+    position: absolute;
+    top: 67%;
+    right: 20.5%;
+}
+
+.imagenh{
+    position: absolute;
+    top: 27%;
+    right: 25%;
+    width: 23%;
+    height: 57%;
+    border-radius: 10px;
+}
+
+.textoh{
+    font-size: 20px;
+    text-align: center;
+    background-color: #d9d9d9;
+    color: black;
+    width: 7%;
+    padding: 15px;
+    border-radius: 15px;
+    transform: rotate(90deg);
+    position: absolute;
+    top: 67%;
+    right: 20.5%;
+}
+
+.imagent{
+    position: absolute;
+    top: 30%;
+    right: 25%;
+    width: 23%;
+    height: 57%;
+    border-radius: 10px;
+}
+
+.textot{
+    font-size: 20px;
+    text-align: center;
+    background-color: #d9d9d9;
+    color: black;
+    width: 7%;
+    padding: 15px;
+    border-radius: 15px;
+    transform: rotate(90deg);
+    position: absolute;
+    top: 67%;
+    right: 20.5%;
+}
+
+
+#boton{
+    background-color: black;
+    color: white;
+    border: solid 1px white;
+    border-radius: 10px;
+    width: 35%;
+    padding: 15px;
+    font-size: 20px;
+}
+
+a{
+    position: absolute;
+    top: 110%;
+    background-color: black;
+    color: white;
+    border: solid 1px white;
+    border-radius: 10px;
+    width: 31%;
+    padding: 15px;
+    font-size: 20px; 
+    text-decoration: none;
+    text-align: center; 
+}

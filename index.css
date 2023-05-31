@@ -1,0 +1,80 @@
+body{
+    background-color: black;
+    color: white;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+#titulo{
+    position: absolute;
+    left: 41%;
+    font-size: 40px;
+}
+
+.inicio{
+    position: absolute;
+    top: 15%;
+    left: 30%;
+    width: 40%;
+    height: 80%;
+    background-color: #D9D9D9;
+   border-radius: 30px;
+    color: black;
+    /* text-align: center; */
+}
+
+.inicio h1{
+    text-align: center;
+    font-size: 40px;
+}
+
+#nmb{
+    font-size: 25px;
+    position: absolute;
+    top: 23%;
+    left: 15%;
+}
+
+#usu{
+    position: absolute;
+    top: 29%;
+    left: 15%;
+    width: 70%;
+    border-radius: 10px;
+    border-style: none;
+    box-shadow: 5px 5px 5px #888888;
+    font-size: 20px;
+    color: #888888;
+    padding: 10px;
+}
+
+#cas{
+    font-size: 25px;
+    position: absolute;
+    top: 52%;
+    left: 15%;
+}
+
+#casa{
+    position: absolute;
+    top: 59%;
+    left: 15%;
+    width: 70%;
+    border-radius: 10px;
+    border-style: none;
+    box-shadow: 5px 5px 5px #888888;
+    font-size: 20px;
+    color: #888888;
+    padding: 10px;
+}
+
+#boton{
+    position: absolute;
+    top: 80%;
+    left: 42%;
+    width: 17%;
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+    padding: 10px;
+    font-size: 30px;
+}
